@@ -1,13 +1,10 @@
 # Sveltekit Tailwind CSS Ecommerce Store
 
-An Open Source Ecommerce Shop build with awesome [Sveltekit](https://kit.svelte.dev/) and [Tailwind CSS](https://tailwindcss.com/)
+An Ecommerce Shop build with awesome [Sveltekit](https://kit.svelte.dev/) and [Tailwind CSS](https://tailwindcss.com/)
 
 ![Branch stable](https://img.shields.io/badge/stable%20branch-master-black.svg)
 ![Javascript](https://img.shields.io/badge/Javascript-black)
 ![Svelte](https://img.shields.io/badge/Svelte-black)
-
-## [Check out the Demo](https://master--nimble-zabaione-e0b961.netlify.app/)
-
 ![Alt text](./shop-screenshot.png)
 
 # Features
@@ -34,7 +31,7 @@ An Open Source Ecommerce Shop build with awesome [Sveltekit](https://kit.svelte.
 ### Install and run SvelteKit with the commands below:
 
 ```bash
-git clone https://github.com/martykuentzel/sveltekit-tailwind-ecommerce.git
+git clone https://github.com/devofficer/sveltekit-tailwind-ecommerce.git
 cd sveltekit-tailwind-ecommerce
 npm install
 npm run dev
@@ -45,6 +42,6 @@ OR
 
 Just ...
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/martykuentzel/sveltekit-tailwind-ecommerce)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/devofficer/sveltekit-tailwind-ecommerce)
 
 And that's it!
